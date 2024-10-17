@@ -24,6 +24,18 @@ body {
 	padding: 4px;
 }
 
+.latest-news-section {
+	width: 30%;
+}
+
+.main-article {
+	width: 40%;
+}
+
+.pictorial-news-section {
+	width: 30%;
+}
+
 .pictorial-news-section img {
 	width: 150px;
 }
